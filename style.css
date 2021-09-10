@@ -1,0 +1,26 @@
+.text_images_and_result{
+    padding:10px;
+    margin-top:15px;
+    border:3px solid white;
+    box-shadow:5px 5px 18px black;
+    width: 500px;
+    position:fixed;
+    left:0;
+    border-radius:10px;
+}
+.img{
+    width: 300px;
+}
+h4{
+    background-color: grey;
+  width:310px;
+  padding:10px;
+  border-radius:10px;
+}
+body{
+    text-align:center;
+}
+#cs{
+    width:100px;
+    border-radius:50px;
+}
